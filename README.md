@@ -1,8 +1,7 @@
 ## Welcome to mr.nhatdang Pages
+Hello everybody, my name's NhatDang. I was born in 1993s at An Khe town, Gia Lai province, Viet Nam.
+I studied primary school at Ngo May school, secondary school at De Tham school and high school at Quang Trung school. In 2011, I studied at University of Telecommunication campus Ho Chi Minh city. Now, I am learning at University of Information Technology Ho Chi Minh.
 
-You can use the [editor on GitHub](https://github.com/NhatDang93/NhatDang93.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
