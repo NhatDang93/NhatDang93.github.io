@@ -1,6 +1,7 @@
 ## Welcome to mr.nhatdang Pages
 Hello everybody, my name's NhatDang. I was born in 1993s at An Khe town, Gia Lai province, Viet Nam.
-I studied primary school at Ngo May school, secondary school at De Tham school and high school at Quang Trung school. In 2011, I studied at University of Telecommunication campus Ho Chi Minh city. Now, I am learning at University of Information Technology Ho Chi Minh.
+I studied primary school at Ngo May school, secondary school at De Tham school and high school at Quang Trung school. 
+In 2011, I studied at University of Telecommunication campus Ho Chi Minh city and now I am learning at University of Information Technology Ho Chi Minh.
 
 
 ### Markdown
