@@ -16,7 +16,9 @@ Syntax highlighted code block
 ### Header 3
 
 # Books read:
-1. The World is Flat,
+Number | Book | Authior
+-------|---------|--------
+1 | The World is Flat | Thomas L.Friedman
 2. Three Kingdoms,
 3. Sherlock Holmes,
 4. Bill Gates,
