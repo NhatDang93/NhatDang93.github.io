@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 # Books read:
-1. The Wordl is Flat,
+1. The World is Flat,
 2. Three Kingdoms,
 3. Sherlock Holmes,
 4. Bill Gates,
